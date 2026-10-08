@@ -1,4 +1,4 @@
-# 👋 Hola, soy [TU NOMBRE]
+# 👋 Hola, soy Sebastian
 
 **Ingeniero/a de Sistemas** | Programaciòn y resoluciòn de problemas | Bogotà DC
 
